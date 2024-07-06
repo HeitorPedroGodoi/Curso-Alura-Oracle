@@ -1,2 +1,2 @@
 # JavaScript
-Atividades feitas no curso Lógica de programação: mergulhe em programação com JavaScript da Alura
+Atividades feitas no curso Iniciante em Programação T7 - ONE
